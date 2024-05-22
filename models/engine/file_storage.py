@@ -108,3 +108,4 @@ class FileStorage():
                          "user_id": str,
                          "text": str}
         }
+        return attributes
